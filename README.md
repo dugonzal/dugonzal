@@ -4,5 +4,5 @@
 </p>
 
 <div align="center">
-  https://github-readme-stats.vercel.app/api/top-langs/?username=dugonzal&theme=aura_dark&border_radius=3&layout=compact&langs_count=6
+  [vibes](https://github-readme-stats.vercel.app/api/top-langs/?username=dugonzal&theme=aura_dark&border_radius=3&layout=compact&langs_count=6)
   </div>
