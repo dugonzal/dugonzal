@@ -8,5 +8,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dugonzal&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dugonozal&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dugonzal&repo=convoychat" />
 </a>
