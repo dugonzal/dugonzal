@@ -18,4 +18,4 @@ From the labyrinths of the kernel to the intricate connections of networks, I fi
 ## 📫 Contact
 
 📧 Email: [My email](ciclocontinuo2@gmail.com)  
-💼 LinkedIn: [Duvan González](https://www.linkedin.com/in/duvangonzalez/)
+💼 LinkedIn: [Duvan González](https://www.linkedin.com/in/dugonzal/)
