@@ -15,10 +15,6 @@
 
 From the labyrinths of the kernel to the intricate connections of networks, I find inspiration in every line of code and in every interconnected node. My goal is to delve beyond the surface, immersing myself in the technical depths to discover new ways to make technology more accessible, intuitive, and, above all, humane. 🧠💻
 
-## 💼 What I'm Looking For
-
-I'm seeking exciting opportunities in the field of technology where I can apply my knowledge and contribute to the development of innovative solutions.
-
 ## 📫 Contact
 
 📧 Email: [My email](ciclocontinuo2@gmail.com)  
