@@ -6,12 +6,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dugonzal&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=0d1117" alt="Your GitHub stats">
 </div>
-
----
-
-## 🚀 About Me
-
-👋 Hello world! I'm Duvan, a 42 student with a burning passion for unraveling the mysteries of systems and networks. I consider myself a tireless explorer of the technological universe, always seeking to understand how the latent heart of our digital infrastructures truly operates.
-
-From the labyrinths of the kernel to the intricate connections of networks, I find inspiration in every line of code and in every interconnected node. My goal is to delve beyond the surface, immersing myself in the technical depths to discover new ways to make technology more accessible, intuitive, and, above all, humane. 🧠💻
-
